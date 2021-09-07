@@ -1,7 +1,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Roderick's Zemenarian Zealous Songz</title>
+    <h1>Roderick's Zemenarian Zealous Songz</h1>
   </head>
   <body>
     <h2>10 of the most EDM bangers ever!</h2>
