@@ -4,7 +4,7 @@
     <h1>Roderick's Zemenarian Zealous Songz</h1>
   </head>
   <body>
-    <h2>10 of the most EDM bangers ever!</h2>
+    <h2>10 of the most EDM bangers ever in no particular order!</h2>
     <p>1. "The Armor of God" by Xtrullor</p>
     <p>2. "ATLAS" by BICEP</p>
     <p>3. "Breathe 'Just Chill Mix'" by CamelPhat</p>
