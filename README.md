@@ -1,10 +1,9 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Roderick's Zemenarian Zealous Songz</title>
   </head>
   <body>
-    <h1>Roderick's Zemenarian Zealous Songz</h1>
     <h2>10 of the most EDM bangers ever!</h2>
     <p>1. "The Armor of God" by Xtrullor</p>
     <p>2. "ATLAS" by BICEP</p>
