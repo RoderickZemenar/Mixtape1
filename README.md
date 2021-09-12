@@ -20,13 +20,13 @@
       <li><a href="ten">Gravity</a>by Wubbix</li>
     </ol>
 
-    <h2>Song List</h2>
-    <h3><p>Side note: Since most of the songs I chose for this list<br />
+   <h2>Song List</h2>
+   <h3><p>Side note: Since most of the songs I chose for this list<br />
       don't have lyrics (Except Blockbuster), I'll give a few words<br />
-      as to why I like each of the songs.</p>
+      as to why I like each of the songs.</p></h3>
 
-    <h3 id="one">The Armor of God by Xtrullor</h3>
-    <p> It is by far one of the greatest song drum & bass songs ever!<br />
+   <h3 id="one">The Armor of God by Xtrullor</h3>
+   <p> It is by far one of the greatest song drum & bass songs ever!<br />
     It always gets me pumped up when I'm feeling down.<br />
     And I think the most crazy part about the song<br />
     is that it's an orchestral drum & bass song.<br />
@@ -34,16 +34,16 @@
    other than Xtrullor himself!</p>
   <p><a href="#top">To the Top</a></p>
 
-    <h3 id="two">ATLAS by BICEP</h3>
-    <p>While my only compliant for the song is how off beat the drums sound,<br />
-      I cannot help but vibe to it every time I hear it.The song give offs<br />
-      fun and cheery feelings of Summer time! Also passion just because.</p>
+   <h3 id="two">ATLAS by BICEP</h3>
+   <p>While my only compliant for the song is how off beat the drums sound,<br />
+    I cannot help but vibe to it every time I hear it.The song give offs<br />
+    fun and cheery feelings of Summer time! Also passion just because.</p>
   <p><a href="#top">To the Top</a></p>
 
-    <h3 id="three">Secret Place by CloZee</h3>
-    <p>It's very CHILL song. The beautiful vocals, the Japanese instrumentals<br />
-      and soft cozy feeling I get when listening to it. All that together is<br />
-      what this so great!</P>
+   <h3 id="three">Secret Place by CloZee</h3>
+   <p>It's very CHILL song. The beautiful vocals, the Japanese instrumentals<br />
+    and soft cozy feeling I get when listening to it. All that together is<br />
+    what this so great!</p>
   <p><a href="#top">To the Top</a></p>
 
    <h3 id="four">Kaleidoscope by Champagne Drip</h3>
