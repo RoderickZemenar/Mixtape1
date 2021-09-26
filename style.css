@@ -1,0 +1,50 @@
+<style>
+a{
+  color: #eb2225
+}
+a:visited {
+  color: #13ddda
+}
+body{
+  background-color: #c37c32;
+}
+
+img{
+  width:100%;
+}
+
+h1{
+  font-size: 30pt;
+  color: #black;
+  font-family: Orbitron;
+}
+
+ h3{
+  font-size: 20pt;
+  text-align: center;
+  color: #black;
+  font-family: Orbitron;
+}
+
+ ol{
+   font-size: 25pt;
+   color: #black;
+   font-family: Trebuchet;
+ }
+
+ p{
+   font-size: 14pt;
+   color:#white;
+   font-family: Trebuchet;
+ }
+
+ #top{
+     text-align: center;
+     font-size: 50pt;
+     color: #black;
+     font-family: Orbitron;
+   }
+   html {
+       scroll-behavior: smooth;
+     }
+</style>
